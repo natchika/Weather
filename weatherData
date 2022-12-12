@@ -1,24 +1,24 @@
 [
 {
-  "name": "Jack",
+  "name": 0,
   "username": "Frost",
   "email": "example@snowday.com",
   "body": "Words about snowy weather..."
 },
 {
-  "name": "Grant",
+  "name": 1,
   "username": "Ranier",
   "email": "example@warmprecipitation.com",
   "body": "Words about rainy weather..."
 },
 {
-  "name": "Sunny",
+  "name": 2,
   "username": "Summers",
   "email": "example@anti-precipitation.com",
   "body": "Words about sunny weather..."
 },
 {
-  "name": "Steven",
+  "name": 3,
   "username": "Strikes",
   "email": "example@thingselectronsdo.com",
   "body": "Words about thunderstorm weather..."
