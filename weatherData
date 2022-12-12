@@ -1,0 +1,26 @@
+[
+{
+  "name": "Jack",
+  "username": "Frost",
+  "email": "example@snowday.com",
+  "body": "Words about snowy weather..."
+},
+{
+  "name": "Grant",
+  "username": "Ranier",
+  "email": "example@warmprecipitation.com",
+  "body": "Words about rainy weather..."
+},
+{
+  "name": "Sunny",
+  "username": "Summers",
+  "email": "example@anti-precipitation.com",
+  "body": "Words about sunny weather..."
+},
+{
+  "name": "Steven",
+  "username": "Strikes",
+  "email": "example@thingselectronsdo.com",
+  "body": "Words about thunderstorm weather..."
+},
+]
